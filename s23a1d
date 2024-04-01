@@ -1,0 +1,6 @@
+CarParkingService
+
+package com.gem.service;
+
+public interface CarParkingService {
+ boolean parkcar(int id, String carid); 
