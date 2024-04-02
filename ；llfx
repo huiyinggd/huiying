@@ -1,0 +1,3 @@
+public void add(int index, E element) {
+    final ReentrantLock lock = this.lock;
+    lock.lock();
