@@ -1,0 +1,5 @@
+    public static void addBlackList(Map<String,Boolean> ids) {
+        blackListMap.putAll(ids);
+    }
+ 
+}
