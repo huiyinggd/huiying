@@ -1,0 +1,5 @@
+        /**
+         * classVar2 documentation comment that happens to be
+         * more than one line long
+         */
+        private static Object classVar2;
