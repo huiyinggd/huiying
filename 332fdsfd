@@ -1,0 +1,7 @@
+        /** instanceVar3 documentation comment */
+        private Object[] instanceVar3;
+
+        /** 
+         * ...constructor Blah documentation comment...
+         */
+        public Blah()
